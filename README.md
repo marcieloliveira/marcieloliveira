@@ -105,8 +105,41 @@ for DWDM (1510nm) - 2010
   - First prototypes validation (testing) Compact platform
   - GCC validation using Trasponers+Mngt boards
 
+- GMPLS Control Plane for DWDM (2016) - Marbem Stack - 2016/2017
+  - DWDM Control Plane validation for ROADMs / WSS (Wavelength selective switches)
+
+- GMPLS Control Plane for OTN Switch - 2017/2018/2019
+  - Control Plane validation for OTN-Switch
 
 ### 5. Highlight Projects in Ekinops
+
+- OTN Switch validations (testing) - 2019
+  - SDN Controller validations for OTN-Switch
+  - Services validations for OTN-Switch
+  - Design IP communication between boards
+
+- Automation to validate OTN Switch platform using Robot Framework - 2019/2020
+  - Test automation to validate OTN Switch platform
+  - NMS (Network Management System) + SDN Controler validations
+
+- Requirements and Networking Architecture (L2-Ethernet, L3) for new OTN Switching compact platform (ETSc) - 2021
+  - Internal architecture IP addressing and Vlan mapping for Line Card and Mngt board communications (management plane)
+
+- Automation to validate OTN Switch compact platform using Robot Framework - 2021
+  - Test automation to validate OTN Switch compact platform
+  - NMS (Network Management System) + SDN Controller validations
+
+- LED requirements, specifications,  and validation for OTN Switch compact platform - 2022
+  - Tests to validate LED behavior for OTN-Switch compact platform
+
+- Vlan mapping design, specifications, and requirements for GCC channel and validation for OTN Switch - 2022
+  - Performing GCC integration tests, work closely with the Hardware and Firmware team
+  - Manual and automated tests to validate GCC channel for OTN-Switch using Spirent traffic generator
+
+- vRouter + GCC validation for OTN Switch  - 2022
+  - Manual and Automated tests to validate Virtual Router (L3, OSPF) and GCC channel (L2, Ethernet) for OTN-Switch to provide extended DCN connection for remote nodes.
+  - Validade Webcraft Interface
+  - Demonstrations and support to CSO team
 
 ## How to contact me:
   <div> 
