@@ -28,9 +28,20 @@
 
 ### 2. Mini Bio
 
-- Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry.
+- Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry. Master in Electrical Engineering in the area of Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems. 
 
-- I’m Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
+- I’m passionate about software quality, collaborating with the development team, and advocating for customers. I independently identify Bugs and recommend improvements, contribute to solving issues and make decisions based on organizational goals and business objectives.
+
+- As an Agile Tester, I work with cross-functional teams, with solid knowledge of L0/L1/L2/L3, Optical Networks, DWDM/ROADM/OTN, Switching, Routing, Ethernet, TCP/IP protocols.
+
+- Performing integration tests using prototypes to validate the product's features (R&D department), focusing on details and acceptance criteria. I usually work closely with the hardware and firmware teams during integration tests.
+
+- Performing functional, non-functional, performance, and robustness tests to validate hardware and software, including Network Management Systems (NMS), SDN Controllers, and Network Elements. I usually work closely with the firmware and NMS software developer teams during main functional tests. 
+
+- Developing automated tests using Robot Framework tool in order to provide regression tests coverage, previously validated in manual tests phase. 
+
+- Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
+
 
 ### 3. Skill sets
 
