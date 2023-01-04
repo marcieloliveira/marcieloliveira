@@ -19,6 +19,7 @@
 - Two accepted and published papers in the Brazilian Computer Academy (SBRC): 
   - "SNMP Gateway CCN: Software de gerência de redes orientadas a conteúdo interoperável com sistemas legados". In Salão de Ferramentas, 35th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2017), May 2017.
   - “SNMP Proxy CCN: Uma proposta de arquitetura para gerência de redes orientadas a conteúdo interoperável com sistemas legados".  32th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2014), Florianópolis-SC, May 2014.
+  - Link to the project here in Github: https://github.com/marcieloliveira/snmp-gateway-ccn
   
 ## How to contact me:
   <div> 
