@@ -1,6 +1,6 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
-- 🔭 I’m currently working on Robot Framework Test Automation focus on to validade OTN Switch platform (Hardware + Softtware + Management System).
+- 🔭 I’m currently working with Robot Framework Test Automation focusing on validating the OTN Switch platform (Hardware + Software + Management System).
 - 🌱 I’m currently learning Python language focus on Test Automation and Kubernets (container orchestrator)
 - 💬 Ask me about Networking (Switching, Routing, DWDM, OTN Switch), Robot Framework, Quality Assurance, Agile Testing 
 
