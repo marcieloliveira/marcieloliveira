@@ -12,7 +12,7 @@
 4. Highlight Projects in Padtec 👜
 5. Highlight Projects in Ekinops 👜
 
-### 1. Educational Grade
+### 1. Educational Grade 🏫
 
 - Master's Degree at State University of Campinas - 2017
   - Electrical Engineering in the area of Computer Engineering
