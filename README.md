@@ -6,11 +6,11 @@
 
 ## Portfolio
 
-1. Educational Grade   
-2. Mini Bio
-3. Skill sets
-4. Highlight Projects in Padtec
-5. Highlight Projects in Ekinops
+1. Educational Grade 🏫
+2. Mini Bio ✨
+3. Skill sets 🔧
+4. Highlight Projects in Padtec 👜
+5. Highlight Projects in Ekinops 👜
 
 ### 1. Educational Grade
 
@@ -26,7 +26,7 @@
 
 - Bachelor's in Information Systems at Faculdade Anhanguera de Campinas  - 2005
 
-### 2. Mini Bio
+### 2. Mini Bio ✨
 
 - Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry. Master in Electrical Engineering in the area of Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems. 
 - I’m passionate about software quality, collaborating with the development team, and advocating for customers. I independently identify Bugs and recommend improvements, contribute to solving issues and make decisions based on organizational goals and business objectives.
@@ -35,7 +35,7 @@
 - Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
 
 
-### 3. Skill sets
+### 3. Skill sets 🔧
 
 - Solid knowledge of L0/L1, Optical Networks, DWDM/ROADM/OTN, GPON/xPON/FTTH
 - Solid knowledge of L2/L3 Switching, Routing, Ethernet, TCP/IP protocols.
@@ -57,7 +57,7 @@
 - Solid knowledge of Jira Task Management 
 - Knowledge of Xray Test Management
 
-### 4. Highlight Projects in Padtec
+### 4. Highlight Projects in Padtec 👜
 
 - New generation Ethernet Supervision Channel 
 for DWDM (1510nm) - 2010
@@ -114,7 +114,7 @@ for DWDM (1510nm) - 2010
 - GMPLS Control Plane for OTN Switch - 2017/2018/2019
   - Control Plane validation for OTN-Switch
 
-### 5. Highlight Projects in Ekinops
+### 5. Highlight Projects in Ekinops 👜
 
 - OTN Switch validations (testing) - 2019
   - SDN Controller validations for OTN-Switch
