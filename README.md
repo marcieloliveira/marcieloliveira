@@ -6,13 +6,21 @@
 
 ## Portfolio
 
-1. Educational Grade 🏫
-2. Mini Bio ✨
-3. Skill sets 🔧
-4. Highlight Projects in Padtec 👜
-5. Highlight Projects in Ekinops 👜
+1. Mini Bio ✨
+2. Educational Grade 🏫
+4. Skill sets 🔧
+5. Highlight Projects in Padtec 👜
+6. Highlight Projects in Ekinops 👜
 
-### 1. Educational Grade 🏫
+### 1. Mini Bio ✨
+
+- Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry. Master in Electrical Engineering in the area of Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems. 
+- I’m passionate about software quality, collaborating with the development team, and advocating for customers. I independently identify Bugs and recommend improvements, contribute to solving issues and make decisions based on organizational goals and business objectives.
+- Developing automated tests using Robot Framework tool in order to provide regression tests coverage, previously validated in manual tests phase. 
+
+- Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
+
+### 2. Educational Grade 🏫
 
 - Master's Degree at State University of Campinas - 2017
   - Electrical Engineering in the area of Computer Engineering
@@ -25,15 +33,6 @@
 - Computer Networking Specialist at State University of Campinas - 2008
 
 - Bachelor's in Information Systems at Faculdade Anhanguera de Campinas  - 2005
-
-### 2. Mini Bio ✨
-
-- Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry. Master in Electrical Engineering in the area of Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems. 
-- I’m passionate about software quality, collaborating with the development team, and advocating for customers. I independently identify Bugs and recommend improvements, contribute to solving issues and make decisions based on organizational goals and business objectives.
-- Developing automated tests using Robot Framework tool in order to provide regression tests coverage, previously validated in manual tests phase. 
-
-- Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
-
 
 ### 3. Skill sets 🔧
 
