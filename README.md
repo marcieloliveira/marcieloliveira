@@ -140,7 +140,7 @@ for DWDM (1510nm) - 2010
   - Performing GCC integration tests, work closely with the Hardware and Firmware team
   - Manual and automated tests to validate GCC channel for OTN-Switch using Spirent traffic generator
 
-- vRouter + GCC validation for OTN Switch  - 2022
+- vRouter + GCC validation for OTN Switch  - 2022/2023
   - Manual and Automated tests to validate Virtual Router (L3, OSPF) and GCC channel (L2, Ethernet) for OTN-Switch to provide extended DCN connection for remote nodes.
   - Webcraft Interface validations
   - Demonstrations and support to CSO team
