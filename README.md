@@ -61,7 +61,8 @@
 - New generation Ethernet Supervision Channel 
 for DWDM (1510nm) - 2010
   - First prototypes validation (testing)
-  - Support field team during first deploying
+  - NMS validation (Java / SNMP)
+  - Support field team during first deployment
   
 - New generation Voice Channel (VoIP) for Supervisor Ethernet Channel DWDM  - Designed by me and encouraged by company - 2011  
 
@@ -76,6 +77,7 @@ for DWDM (1510nm) - 2010
   
 - PacketPad Ptin Portugal partner (MPLS-TP) - 2013
   - PacketPad Homologation - PTN Oi (Phase 1 e Phase 2) PP12, PP80 e PP360
+  - NMS Ptin (SNMP)
   - Support field team during first deploying
   - IP Planning for PTN Network (Backhaul 4G of "Oi" National Operator)
    
@@ -116,10 +118,10 @@ for DWDM (1510nm) - 2010
 ### 5. Highlight Projects in Ekinops 👜
 
 - OTN Switch validations (testing) - 2019
-  - SDN Controller validations for OTN-Switch
+  - NMS Web + SDN Controller validations
   - Services validations for OTN-Switch
   - Design IP communication between boards
-
+  
 - Automation to validate OTN Switch platform using Robot Framework - 2019/2020
   - Test automation to validate OTN Switch platform
   - NMS (Network Management System) + SDN Controler validations
@@ -140,7 +142,7 @@ for DWDM (1510nm) - 2010
 
 - vRouter + GCC validation for OTN Switch  - 2022
   - Manual and Automated tests to validate Virtual Router (L3, OSPF) and GCC channel (L2, Ethernet) for OTN-Switch to provide extended DCN connection for remote nodes.
-  - Validade Webcraft Interface
+  - Webcraft Interface validations
   - Demonstrations and support to CSO team
 
 ## How to contact me:
