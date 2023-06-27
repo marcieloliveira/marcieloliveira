@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python language focus on Test Automation and Kubernets (container orchestrator)
 - 💬 Ask me about Networking (Switching, Routing, DWDM, OTN Switch), Robot Framework, Quality Assurance, Agile Testing 
 
-## Portfolio
+## Background
 
 1. Mini Bio ✨
 2. Educational Grade 🏫
