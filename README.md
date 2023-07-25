@@ -29,8 +29,8 @@
   - "SNMP Gateway CCN: Software de gerência de redes orientadas a conteúdo interoperável com sistemas legados". In Salão de Ferramentas, 35th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2017), May 2017.
   - “SNMP Proxy CCN: Uma proposta de arquitetura para gerência de redes orientadas a conteúdo interoperável com sistemas legados".  32th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2014), Florianópolis-SC, May 2014.
   - Link to the project in Github: https://github.com/marcieloliveira/snmp-gateway-ccn
-  - Link to the full doc Master Thesis: https://drive.google.com/file/d/1Zrm0siIwieCo9yiv2g_E1Az2rJKQg5QI/view?usp=sharing
-  - Link to the Master Thesis presentation: https://drive.google.com/file/d/1ZidoGYhcWZha0iY5hYmpIobLV1BXJFgk/view?usp=sharing
+  - Link to the full doc Master Thesis (PtBR): https://drive.google.com/file/d/1Zrm0siIwieCo9yiv2g_E1Az2rJKQg5QI/view?usp=sharing
+  - Link to the Master Thesis presentation (PtBR): https://drive.google.com/file/d/1ZidoGYhcWZha0iY5hYmpIobLV1BXJFgk/view?usp=sharing
 
 - Computer Networking Specialist at State University of Campinas - 2008
 
