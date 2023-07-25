@@ -1,7 +1,7 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
 - 🔭 I’m currently working with Robot Framework Test Automation focusing on validating the OTN Switch platform (Hardware + Software + Management System).
-- 🌱 I’m currently learning Python language focus on Test Automation and Kubernets (container orchestrator)
+- 🌱 I’m currently learning Python language focusing on Test Automation and Kubernetes (container orchestrator)
 - 💬 Ask me about Networking (Switching, Routing, DWDM, OTN Switch), Robot Framework, Quality Assurance, Agile Testing 
 
 ## Background
@@ -16,7 +16,7 @@
 
 - Professional with more than 16 years of experience, working as Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry. Master in Electrical Engineering in the area of Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems. 
 - I’m passionate about software quality, collaborating with the development team, and advocating for customers. I independently identify Bugs and recommend improvements, contribute to solving issues and make decisions based on organizational goals and business objectives.
-- Developing automated tests using Robot Framework tool in order to provide regression tests coverage, previously validated in manual tests phase. 
+- Developing automated tests using the Robot Framework tool in order to provide regression tests coverage, previously validated in manual tests phase. 
 
 - Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
 
@@ -28,7 +28,9 @@
 - Two accepted and published papers in the Brazilian Computer Academy (SBRC): 
   - "SNMP Gateway CCN: Software de gerência de redes orientadas a conteúdo interoperável com sistemas legados". In Salão de Ferramentas, 35th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2017), May 2017.
   - “SNMP Proxy CCN: Uma proposta de arquitetura para gerência de redes orientadas a conteúdo interoperável com sistemas legados".  32th Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2014), Florianópolis-SC, May 2014.
-  - Link to the project here in Github: https://github.com/marcieloliveira/snmp-gateway-ccn
+  - Link to the project in Github: https://github.com/marcieloliveira/snmp-gateway-ccn
+  - Link to the full doc Master Thesis: https://drive.google.com/file/d/1Zrm0siIwieCo9yiv2g_E1Az2rJKQg5QI/view?usp=sharing
+  - Link to the Master Thesis presentation: https://drive.google.com/file/d/1ZidoGYhcWZha0iY5hYmpIobLV1BXJFgk/view?usp=sharing
 
 - Computer Networking Specialist at State University of Campinas - 2008
 
@@ -50,7 +52,7 @@
 - Knowledge of  Quality of Service (QoS - Intserv and Diffserv).
 - Solid knowledge of Testing instruments, VIAVI BERT, Spirent, Ixia, Wireshark
 - Solid knowledge of Test Automation using Robot Framework
-- Knowledge of programing language Python focus on Testing
+- Knowledge of the programing language Python focus on Testing
 - Knowledge of Dockers/Containers/Virtualization
 - Knowledge of CI/CD tools, Git, Git Lab, Github, Gerrit, Jenkins
 - Solid knowledge of Jira Task Management 
@@ -62,7 +64,7 @@
 for DWDM (1510nm) - 2010
   - First prototypes validation (testing)
   - NMS validation (Java / SNMP)
-  - Support field team during first deployment
+  - Support field team during the first deployment
   
 - New generation Voice Channel (VoIP) for Supervisor Ethernet Channel DWDM  - Designed by me and encouraged by company - 2011  
 
@@ -78,7 +80,7 @@ for DWDM (1510nm) - 2010
 - PacketPad Ptin Portugal partner (MPLS-TP) - 2013
   - PacketPad Homologation - PTN Oi (Phase 1 e Phase 2) PP12, PP80 e PP360
   - NMS Ptin (SNMP)
-  - Support field team during first deploying
+  - Support field team during the first deploying
   - IP Planning for PTN Network (Backhaul 4G of "Oi" National Operator)
    
 - MiniRouter / L3 validation for DCN/IP accessibility for Management boards
@@ -102,7 +104,7 @@ for DWDM (1510nm) - 2010
   - Validate of Minirouter+Ethernet Over IP (EoP) solution for "Eletronet" Operator
   - Demonstrations to Eletronet and Support to field teams
 
-- DWDM Supervision Management board (9U/Compact) - 2016
+- DWDM Supervision Management Board (9U/Compact) - 2016
   - Design VLAN mapping
   - First prototypes validation (testing) 9U platform
   - HA (High Availability) validations
@@ -137,7 +139,7 @@ for DWDM (1510nm) - 2010
   - Tests to validate LED behavior for OTN-Switch compact platform
 
 - Vlan mapping design, specifications, and requirements for GCC channel and validation for OTN Switch - 2022
-  - Performing GCC integration tests, work closely with the Hardware and Firmware team
+  - Performing GCC integration tests, working closely with the Hardware and Firmware team
   - Manual and automated tests to validate GCC channel for OTN-Switch using Spirent traffic generator
 
 - vRouter + GCC validation for OTN Switch  - 2022/2023
