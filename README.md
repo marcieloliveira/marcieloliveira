@@ -1,7 +1,7 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
 - 🔭 Based on my experience in Optical Networking, NMS/Control Plane QA/Testing, I’m currently working with triaging critical issues related to NMS/SDN Controller+Network Elements that were escalated by services teams, and I work closely with R&D team helping to solve them, always focusing on a faster response.
-- 🌱 I’m currently learning AI (Artificial intelligence, Large language models (LLM)
+- 🌱 I’m currently learning AI (Artificial intelligence) and LLM (Large language model)
 - 💬 Ask me about Networking (Switching, Routing, Optical Network), Robot Framework, Quality Assurance, Agile Testing 
 
 ## Background
