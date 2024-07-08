@@ -1,8 +1,8 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
-- 🔭 I’m currently working with Robot Framework Test Automation focusing on validating the OTN Switch platform (Hardware + Software + Management System).
-- 🌱 I’m currently learning Python language focusing on Test Automation and Kubernetes (container orchestrator)
-- 💬 Ask me about Networking (Switching, Routing, DWDM, OTN Switch), Robot Framework, Quality Assurance, Agile Testing 
+- 🔭 Based on my experience in Optical Networking, NMS/Control Plane QA/Testing, I’m currently working with triaging critical issues related to NMS/SDN Controller+Network Elements that were escalated by services teams, and I work closely with R&D team helping to solve them, always focusing on a faster response.
+- 🌱 I’m currently learning AI (Artificial intelligence, Large language models (LLM)
+- 💬 Ask me about Networking (Switching, Routing, DWDM), Robot Framework, Quality Assurance, Agile Testing 
 
 ## Background
 
@@ -52,13 +52,49 @@
 - Knowledge of  Quality of Service (QoS - Intserv and Diffserv).
 - Solid knowledge of Testing instruments, VIAVI BERT, Spirent, Ixia, Wireshark
 - Solid knowledge of Test Automation using Robot Framework
-- Knowledge of the programing language Python focus on Testing
+- Knowledge of the programming language Python focus on Testing
 - Knowledge of Dockers/Containers/Virtualization
 - Knowledge of CI/CD tools, Git, Git Lab, Github, Gerrit, Jenkins
 - Solid knowledge of Jira Task Management 
 - Knowledge of Xray Test Management
 
-### 4. Highlight Projects in Padtec 👜
+### 4. Highlight Projects in Infinera 👜
+
+- NMS Technical Support: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
+- NMS validations: Design Test-Strategy, perform Test-Plan, and build test environments (Linux VM, Docker/Container, NEs) for anticipating issues before NMS (Network Management System) deployments and migrations
+- Network Elements commissioning: Supporting services teams during DCN, GCC, and OSC NE first commissioning
+
+### 5. Highlight Projects in Ekinops 👜
+
+- OTN Switch validations (testing) - 2019
+  - NMS Web + SDN Controller validations
+  - Services validations for OTN-Switch
+  - Design IP communication between boards
+  
+- Automation to validate OTN Switch platform using Robot Framework - 2019/2020
+  - Test automation to validate OTN Switch platform
+  - NMS (Network Management System) + SDN Controler validations
+
+- Requirements and Networking Architecture (L2-Ethernet, L3) for new OTN Switching compact platform (ETSc) - 2021
+  - Internal architecture IP addressing and Vlan mapping for Line Card and Mngt board communications (management plane)
+
+- Automation to validate OTN Switch compact platform using Robot Framework - 2021
+  - Test automation to validate OTN Switch compact platform
+  - NMS (Network Management System) + SDN Controller validations
+
+- LED requirements, specifications,  and validation for OTN Switch compact platform - 2022
+  - Tests to validate LED behavior for OTN-Switch compact platform
+
+- Vlan mapping design, specifications, and requirements for GCC channel and validation for OTN Switch - 2022
+  - Performing GCC integration tests, working closely with the Hardware and Firmware team
+  - Manual and automated tests to validate GCC channel for OTN-Switch using Spirent traffic generator
+
+- vRouter + GCC validation for OTN Switch  - 2022/2023
+  - Manual and Automated tests to validate Virtual Router (L3, OSPF) and GCC channel (L2, Ethernet) for OTN-Switch to provide extended DCN connection for remote nodes.
+  - Webcraft Interface validations
+  - Demonstrations and support to CSO team
+
+### 6. Highlight Projects in Padtec 👜
 
 - New generation Ethernet Supervision Channel 
 for DWDM (1510nm) - 2010
@@ -116,36 +152,6 @@ for DWDM (1510nm) - 2010
 
 - GMPLS Control Plane for OTN Switch - 2017/2018/2019
   - Control Plane validation for OTN-Switch
-
-### 5. Highlight Projects in Ekinops 👜
-
-- OTN Switch validations (testing) - 2019
-  - NMS Web + SDN Controller validations
-  - Services validations for OTN-Switch
-  - Design IP communication between boards
-  
-- Automation to validate OTN Switch platform using Robot Framework - 2019/2020
-  - Test automation to validate OTN Switch platform
-  - NMS (Network Management System) + SDN Controler validations
-
-- Requirements and Networking Architecture (L2-Ethernet, L3) for new OTN Switching compact platform (ETSc) - 2021
-  - Internal architecture IP addressing and Vlan mapping for Line Card and Mngt board communications (management plane)
-
-- Automation to validate OTN Switch compact platform using Robot Framework - 2021
-  - Test automation to validate OTN Switch compact platform
-  - NMS (Network Management System) + SDN Controller validations
-
-- LED requirements, specifications,  and validation for OTN Switch compact platform - 2022
-  - Tests to validate LED behavior for OTN-Switch compact platform
-
-- Vlan mapping design, specifications, and requirements for GCC channel and validation for OTN Switch - 2022
-  - Performing GCC integration tests, working closely with the Hardware and Firmware team
-  - Manual and automated tests to validate GCC channel for OTN-Switch using Spirent traffic generator
-
-- vRouter + GCC validation for OTN Switch  - 2022/2023
-  - Manual and Automated tests to validate Virtual Router (L3, OSPF) and GCC channel (L2, Ethernet) for OTN-Switch to provide extended DCN connection for remote nodes.
-  - Webcraft Interface validations
-  - Demonstrations and support to CSO team
 
 ## How to contact me:
   <div> 
