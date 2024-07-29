@@ -59,8 +59,8 @@
 
 ### 4. Highlight Projects in Infinera 👜
 
-- NMS Technical Support: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
-- NMS validations: Design Test-Strategy, perform Test-Plan, and build test environments (Linux VM, Docker/Container, NEs) for anticipating issues before NMS (Network Management System) deployments and migrations
+- NMS Technical Support - 2023/2024: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
+- NMS validations 2023/2024: Design Test-Strategy, perform Test-Plan, and build test environments (Linux VM, Docker/Container, NEs) for anticipating issues before NMS (Network Management System) deployments and migrations
 - Network Elements commissioning: Supporting services teams during DCN, GCC, and OSC NE first commissioning
 
 ### 5. Highlight Projects in Ekinops 👜
