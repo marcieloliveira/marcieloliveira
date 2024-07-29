@@ -9,9 +9,9 @@
 1. Mini Bio ✨
 2. Educational Grade 🏫
 3. Skill sets 🔧
-4. Highlight Projects in Padtec 👜
-5. Highlight Projects in Ekinops 👜
-6. Highlight Projects in Infinera 👜
+4. Highlight Projects in Infinera: 2023 - 2024 👜
+5. Highlight Projects in Ekinops: 2019 - 2023 👜
+6. Highlight Projects in Padtec: 2010 - 2019 👜
 
 ### 1. Mini Bio ✨
 
