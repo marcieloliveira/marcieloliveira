@@ -1,6 +1,6 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
-- 🔭 Based on my experience in Optical Networking, NMS/Control Plane QA/Testing, I’m currently working with triaging critical issues related to NMS/SDN Controller+Network Elements that were escalated by services teams, and I work closely with R&D team helping to solve them, always focusing on a faster response.
+- 🔭 Strong acknowledgement in Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1), NMS/SDN Controller+Network Elements.
 - 🌱 I’m currently learning AI (Artificial intelligence) and LLM (Large language model)
 - 💬 Ask me about Networking (Switching, Routing, Optical Network), Robot Framework, Quality Assurance, Agile Testing 
 
@@ -8,9 +8,10 @@
 
 1. Mini Bio ✨
 2. Educational Grade 🏫
-4. Skill sets 🔧
-5. Highlight Projects in Padtec 👜
-6. Highlight Projects in Ekinops 👜
+3. Skill sets 🔧
+4. Highlight Projects in Padtec 👜
+5. Highlight Projects in Ekinops 👜
+6. Highlight Projects in Infinera 👜
 
 ### 1. Mini Bio ✨
 
