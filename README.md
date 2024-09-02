@@ -1,7 +1,7 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
 - 🔭 Strong acknowledgement in Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1), NMS/SDN Controller+Network Elements.
-- 🌱 I’m currently learning AI (Artificial intelligence) and LLM (Large language model)
+- 🌱 I’m currently learning AI (Artificial Intelligence), Machine Learning, Neural Networks, and Large Language models (LLM)
 - 💬 Ask me about Networking (Switching, Routing, Optical Network), Robot Framework, Quality Assurance, Agile Testing 
 
 ## Background
