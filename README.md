@@ -15,7 +15,7 @@
 
 ### 1. Mini Bio ✨
 
-- Professional with more than 17 years of experience, working in Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1)—master in Electrical Engineering in Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems.
+- Professional with over 18 years of experience (Brazilian, French, U.S companies), of which over 14 years have been working in Quality Assurance Engineering (QAE) with a focus on validating software and hardware, using Agile development best practices (Agile Testing), with vast experience in the telecom industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1)—master in Electrical Engineering in Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems.
 - Developing automated tests using the Robot Framework tool in order to provide regression test coverage, previously validated in the manual tests phase. 
 - Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
 
