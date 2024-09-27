@@ -15,8 +15,8 @@
 
 ### 1. Mini Bio ✨
 
-- Professional with over 18 years of experience (Brazilian, French, U.S companies), of which over 14 years have been working in Quality Assurance Engineering (QAE) with a focus on validating software and hardware, using Agile development best practices (Agile Testing), with vast experience in the telecom industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1)—master in Electrical Engineering in Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems.
-- Developing automated tests using the Robot Framework tool in order to provide regression test coverage, previously validated in the manual tests phase. 
+- Professional with over 17 years of experience (Brazilian, French, U.S companies), of which over 14 years have been working in Quality Assurance Engineering (QAE) with a focus on validating software and hardware, using Agile development best practices (Agile Testing), with vast experience in the telecom industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1)—master in Electrical Engineering in Computer Engineering, Specialist in Computer Networks, and Bachelor in Information Systems.
+- Developing automated tests using the Robot Framework tool to provide regression test coverage, previously validated in the manual tests phase. 
 - Enthusiast of Information Technology, Telecommunication, and Entrepreneurship.
 
 ### 2. Educational Grade 🏫
@@ -39,6 +39,7 @@
 
 - Solid knowledge of L0/L1, Optical Networks, DWDM/ROADM/OTN, GPON/xPON/FTTH
 - Solid knowledge of L2/L3 Switching, Routing, Ethernet, TCP/IP protocols.
+- Solid knowledge of IP and VLAN Network design
 - Solid knowledge of Packet Transport Network PTN (MPLS-TP protocol).
 - Solid knowledge of Timing/Clock (Sync-E, PTP-1588)
 - Knowledge of VoIP
@@ -51,7 +52,7 @@
 - Knowledge of  Quality of Service (QoS - Intserv and Diffserv).
 - Solid knowledge of Testing instruments, VIAVI BERT, Spirent, Ixia, Wireshark
 - Solid knowledge of Test Automation using Robot Framework
-- Knowledge of the programming language Python focus on Testing
+- Knowledge of the programming language Python focuses on scripting and Testing
 - Knowledge of Dockers/Containers/Virtualization
 - Knowledge of CI/CD tools, Git, Git Lab, Github, Gerrit, Jenkins
 - Solid knowledge of Jira Task Management 
@@ -121,11 +122,11 @@ for DWDM (1510nm) - 2010
 - MiniRouter / L3 validation for DCN/IP accessibility for Management boards
 
 - Xponder 20GbE (MPLS-TP) - 2013/2014
-  - System Tests to validate first prototypes
+  - System Tests to validate prototypes
   - Demonstrations to Oi operator 
   
 - GPON Access Network Platform - 2014/2015
-  - System Tests to validate first prototypes of OLT, ONT/ONU
+  - System Tests to validate prototypes of OLT, ONT/ONU
 
 - Voice Chanel solution (VoIP) for Eletronet - 2015
    - Voice Channel VoIP using ATAs and Bridge VoIP.
@@ -136,14 +137,14 @@ for DWDM (1510nm) - 2010
   - Demonstrations to Eletronet and Support to field teams
 
 - Solution to transport Data Links L2/EAPS - 2016
-  - Validate of Minirouter+Ethernet Over IP (EoP) solution for "Eletronet" Operator
+  - Validate of Minirouter+Ethernet Over IP (EoP) solution for the "Eletronet" Operator
   - Demonstrations to Eletronet and Support to field teams
 
 - DWDM Supervision Management Board (9U/Compact) - 2016
   - Design VLAN mapping
-  - First prototypes validation (testing) 9U platform
+  - First prototype validation (testing) 9U platform
   - HA (High Availability) validations
-  - First prototypes validation (testing) Compact platform
+  - First prototype validation (testing) Compact platform
   - GCC validation using Trasponers+Mngt boards
 
 - GMPLS Control Plane for DWDM (2016) - Marbem Stack - 2016/2017
