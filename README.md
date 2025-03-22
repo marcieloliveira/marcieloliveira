@@ -9,9 +9,10 @@
 1. Mini Bio ✨
 2. Educational Grade 🏫
 3. Skill sets 🔧
-4. Highlight Projects in Infinera: 2023 - 2024 👜
-5. Highlight Projects in Ekinops: 2019 - 2023 👜
-6. Highlight Projects in Padtec: 2010 - 2019 👜
+4. Highlight Projects in Nokia: 2025 👜
+5. Highlight Projects in Infinera: 2023 - 2024 👜
+6. Highlight Projects in Ekinops: 2019 - 2023 👜
+7. Highlight Projects in Padtec: 2010 - 2019 👜
 
 ### 1. Mini Bio ✨
 
@@ -58,13 +59,24 @@
 - Solid knowledge of Jira Task Management 
 - Knowledge of Xray Test Management
 
-### 4. Highlight Projects in Infinera 👜
+### 4. Highlight Projects in Nokia 👜
 
-- NMS Technical Support - 2023/2024: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
-- NMS validations 2023/2024: Design Test-Strategy, perform Test-Plan, and build test environments (Linux VM, Docker/Container, NEs) for anticipating issues before NMS (Network Management System) deployments and migrations
-- Network Elements commissioning: Supporting services teams during DCN, GCC, and OSC NE first commissioning
+Manage and triage Customer-Found Defects (CFDs), collaborating closely with the R&D team to ensure timely resolution. Investigate root causes, conduct lab testing to replicate issues, and validate fixes before deployment to customers. Provide support to service teams during the initial deployment and commissioning of NMS and NEs.
 
-### 5. Highlight Projects in Ekinops 👜
+### 5. Highlight Projects in Infinera 👜
+
+- NMS Technical Support: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
+- NMS validations: Design Test-Strategy and perform Test-Plan for anticipating issues before NMS (Network Management System) deployments and migrations
+- Optical Network commissioning: Supporting services teams during first commissioning
+- Partnered with PLM, R&D engineers, to develop tailored test plans, ensuring seamless integration across network solutions.
+
+Main Achievements:
+- I contribute to increasing the reliability of NMS and Network Elements
+- I contribute to reduce the response and problem-solving time
+- I contribute to technical discussions for improving solutions (NMS, Network Elements), processes, and methodologies
+- I contribute to enhancing the User Experience
+
+### 6. Highlight Projects in Ekinops 👜
 
 - OTN Switch validations (testing) - 2019
   - NMS Web + SDN Controller validations
@@ -94,7 +106,7 @@
   - Webcraft Interface validations
   - Demonstrations and support to CSO team
 
-### 6. Highlight Projects in Padtec 👜
+### 7. Highlight Projects in Padtec 👜
 
 - New generation Ethernet Supervision Channel 
 for DWDM (1510nm) - 2010
