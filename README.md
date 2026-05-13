@@ -1,15 +1,15 @@
 ## Hi there, It's me Marciel Oliveira ! 👋
 
-- 🔭 Strong acknowledgement in Quality Assurance focused on telecom software validation using Agile development best practices (Agile Testing), with vast experience in the telecommunications industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1), NMS/SDN Controller+Network Elements.
-- 🌱 I’m currently learning AI (Artificial Intelligence), Machine Learning, Neural Networks, and Large Language models (LLM)
-- 💬 Ask me about Networking (Switching, Routing, Optical Network), Robot Framework, Quality Assurance, Agile Testing 
+- 🔭 Strong acknowledgement in System Architec/Design and Testing focused on Telecom (Optical/IP Networks) using Agile development best practices, with vast experience in the telecommunications industry, Ethernet/Routing (L2/L3), Optical Network - DWDM (L0/L1), NMS/EMS SDN Controller.
+- 🌱 I’m currently learning AI (Artificial Intelligence), Machine Learning, Neural Networks, Large Language models (LLM), and Agentic AI
+- 💬 Ask me about Networking, Switching, Routing, Optical Network, Robot Framework, System Design, Testing, AI Infrastructure
 
 ## Background
 
 1. Mini Bio ✨
 2. Educational Grade 🏫
 3. Skill sets 🔧
-4. Highlight Projects in Nokia: 2025 👜
+4. Highlight Projects in Nokia: 2025 - 2026 👜
 5. Highlight Projects in Infinera: 2023 - 2024 👜
 6. Highlight Projects in Ekinops: 2019 - 2023 👜
 7. Highlight Projects in Padtec: 2010 - 2019 👜
@@ -37,7 +37,7 @@
 - Bachelor's in Information Systems at Faculdade Anhanguera de Campinas  - 2005
 
 ### 3. Skill sets 🔧
-
+- Ai Engineering, AI Networking, AI Infrastructure
 - Solid knowledge of L0/L1, Optical Networks, DWDM/ROADM/OTN, GPON/xPON/FTTH
 - Solid knowledge of L2/L3 Switching, Routing, Ethernet, TCP/IP protocols.
 - Solid knowledge of IP and VLAN Network design
@@ -61,13 +61,11 @@
 
 ### 4. Highlight Projects in Nokia 👜
 
-Manage and triage Customer-Found Defects (CFDs), collaborating closely with the R&D team to ensure timely resolution. Investigate root causes, conduct lab testing to replicate issues, and validate fixes before deployment to customers. Provide support to service teams during the initial deployment and commissioning of NMS and NEs.
+Currently at Nokia, I design and specify AI-driven network management system and autonomous networking initiatives and control-plane capabilities for large-scale Optical and IP transport networks, translating complex business and operational needs into scalable, resilient, customer-ready system designs.
 
 ### 5. Highlight Projects in Infinera 👜
 
-- NMS Technical Support: Supporting services teams during NMS migrations/deployments, from legacy to new-generation platforms
-- NMS validations: Design Test-Strategy and perform Test-Plan for anticipating issues before NMS (Network Management System) deployments and migrations
-- Optical Network commissioning: Supporting services teams during first commissioning
+- I led system-level validation and release readiness for NMS and network elements used in global transport deployments, strengthening issue triage, improving lab reproducibility, and raising overall release quality.
 - Partnered with PLM, R&D engineers, to develop tailored test plans, ensuring seamless integration across network solutions.
 
 Main Achievements:
